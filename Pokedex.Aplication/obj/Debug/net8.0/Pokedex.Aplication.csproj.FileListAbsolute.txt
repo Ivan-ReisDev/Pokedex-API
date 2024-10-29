@@ -1,0 +1,45 @@
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/bin/Debug/net8.0/Pokedex.Aplication.deps.json
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/bin/Debug/net8.0/Pokedex.Aplication.dll
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/bin/Debug/net8.0/Pokedex.Aplication.pdb
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/bin/Debug/net8.0/Pokedex.Communication.dll
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/bin/Debug/net8.0/Pokedex.Communication.pdb
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.csproj.AssemblyReference.cache
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.AssemblyInfoInputs.cache
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.AssemblyInfo.cs
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.csproj.CoreCompileInputs.cache
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex..BDCC825A.Up2Date
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.dll
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/refint/Pokedex.Aplication.dll
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.pdb
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/ref/Pokedex.Aplication.dll
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/bin/Debug/net8.0/Pokedex.Aplication.deps.json
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/bin/Debug/net8.0/Pokedex.Aplication.dll
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/bin/Debug/net8.0/Pokedex.Aplication.pdb
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/bin/Debug/net8.0/Pokedex.Communication.dll
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/bin/Debug/net8.0/Pokedex.Communication.pdb
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.csproj.AssemblyReference.cache
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.AssemblyInfoInputs.cache
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.AssemblyInfo.cs
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.csproj.CoreCompileInputs.cache
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.csproj.CopyComplete
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.dll
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/refint/Pokedex.Aplication.dll
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.pdb
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/ref/Pokedex.Aplication.dll
+/home/ivan/Área de trabalho/Pokedex/Pokedex.Aplication/bin/Debug/net8.0/Pokedex.Aplication.deps.json
+/home/ivan/Área de trabalho/Pokedex/Pokedex.Aplication/bin/Debug/net8.0/Pokedex.Aplication.dll
+/home/ivan/Área de trabalho/Pokedex/Pokedex.Aplication/bin/Debug/net8.0/Pokedex.Aplication.pdb
+/home/ivan/Área de trabalho/Pokedex/Pokedex.Aplication/bin/Debug/net8.0/Pokedex.Communication.dll
+/home/ivan/Área de trabalho/Pokedex/Pokedex.Aplication/bin/Debug/net8.0/Pokedex.Communication.pdb
+/home/ivan/Área de trabalho/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.csproj.AssemblyReference.cache
+/home/ivan/Área de trabalho/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivan/Área de trabalho/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.AssemblyInfoInputs.cache
+/home/ivan/Área de trabalho/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.AssemblyInfo.cs
+/home/ivan/Área de trabalho/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.csproj.CoreCompileInputs.cache
+/home/ivan/Área de trabalho/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.csproj.CopyComplete
+/home/ivan/Área de trabalho/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.dll
+/home/ivan/Área de trabalho/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/refint/Pokedex.Aplication.dll
+/home/ivan/Área de trabalho/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/Pokedex.Aplication.pdb
+/home/ivan/Área de trabalho/Pokedex/Pokedex.Aplication/obj/Debug/net8.0/ref/Pokedex.Aplication.dll

@@ -1,0 +1,111 @@
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/appsettings.json
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.API.exe
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.API.deps.json
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.API.runtimeconfig.json
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.API.dll
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.API.pdb
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Newtonsoft.Json.dll
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.Aplication.dll
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.Communication.dll
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.Aplication.pdb
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.Communication.pdb
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.csproj.AssemblyReference.cache
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.AssemblyInfoInputs.cache
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.AssemblyInfo.cs
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.csproj.CoreCompileInputs.cache
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/staticwebassets/msbuild.Pokedex.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/staticwebassets/msbuild.build.Pokedex.API.props
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Pokedex.API.props
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Pokedex.API.props
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/scopedcss/bundle/Pokedex.API.styles.css
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex..8AEDD5E5.Up2Date
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.dll
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/refint/Pokedex.API.dll
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.pdb
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.genruntimeconfig.cache
+C:/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/ref/Pokedex.API.dll
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/appsettings.Development.json
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/appsettings.json
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.API
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.API.deps.json
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.API.runtimeconfig.json
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.API.dll
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.API.pdb
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Newtonsoft.Json.dll
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.Aplication.dll
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.Communication.dll
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.Aplication.pdb
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.Communication.pdb
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.csproj.AssemblyReference.cache
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.GeneratedMSBuildEditorConfig.editorconfig
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.AssemblyInfoInputs.cache
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.AssemblyInfo.cs
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.csproj.CoreCompileInputs.cache
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.MvcApplicationPartsAssemblyInfo.cs
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.MvcApplicationPartsAssemblyInfo.cache
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/staticwebassets.build.json
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/staticwebassets.development.json
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/staticwebassets/msbuild.Pokedex.API.Microsoft.AspNetCore.StaticWebAssets.props
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/staticwebassets/msbuild.build.Pokedex.API.props
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Pokedex.API.props
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Pokedex.API.props
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/staticwebassets.pack.json
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/scopedcss/bundle/Pokedex.API.styles.css
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.csproj.CopyComplete
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.dll
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/refint/Pokedex.API.dll
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.pdb
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.genruntimeconfig.cache
+/media/ivan/9C26F3CC26F3A584/Users/Ivan/source/repos/Pokedex/Pokedex.API/obj/Debug/net8.0/ref/Pokedex.API.dll
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/bin/Debug/net8.0/appsettings.Development.json
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/bin/Debug/net8.0/appsettings.json
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.API
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.API.deps.json
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.API.runtimeconfig.json
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.API.dll
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.API.pdb
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.Aplication.dll
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.Communication.dll
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.Aplication.pdb
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/bin/Debug/net8.0/Pokedex.Communication.pdb
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.csproj.AssemblyReference.cache
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.GeneratedMSBuildEditorConfig.editorconfig
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.AssemblyInfoInputs.cache
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.AssemblyInfo.cs
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.csproj.CoreCompileInputs.cache
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.MvcApplicationPartsAssemblyInfo.cs
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.MvcApplicationPartsAssemblyInfo.cache
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/obj/Debug/net8.0/staticwebassets.build.json
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/obj/Debug/net8.0/staticwebassets.development.json
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/obj/Debug/net8.0/staticwebassets/msbuild.Pokedex.API.Microsoft.AspNetCore.StaticWebAssets.props
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/obj/Debug/net8.0/staticwebassets/msbuild.build.Pokedex.API.props
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Pokedex.API.props
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Pokedex.API.props
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/obj/Debug/net8.0/staticwebassets.pack.json
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/obj/Debug/net8.0/scopedcss/bundle/Pokedex.API.styles.css
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.csproj.CopyComplete
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.dll
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/obj/Debug/net8.0/refint/Pokedex.API.dll
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.pdb
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/obj/Debug/net8.0/Pokedex.API.genruntimeconfig.cache
+/home/ivan/Área de trabalho/Pokedex/Pokedex.API/obj/Debug/net8.0/ref/Pokedex.API.dll

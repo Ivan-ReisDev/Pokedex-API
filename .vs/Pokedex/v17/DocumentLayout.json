@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A8D260-8638-4170-9C4D-A9A9E28D1860}|Pokedex.Aplication\\Pokedex.Aplication.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.aplication\\usecases\\pokedex\\getallpokemonsregion\\getallpokemonsregionusecases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A8D260-8638-4170-9C4D-A9A9E28D1860}|Pokedex.Aplication\\Pokedex.Aplication.csproj|solutionrelative:pokedex.aplication\\usecases\\pokedex\\getallpokemonsregion\\getallpokemonsregionusecases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A8D260-8638-4170-9C4D-A9A9E28D1860}|Pokedex.Aplication\\Pokedex.Aplication.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.aplication\\integrations\\pokeapi\\regionpokeapiintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A8D260-8638-4170-9C4D-A9A9E28D1860}|Pokedex.Aplication\\Pokedex.Aplication.csproj|solutionrelative:pokedex.aplication\\integrations\\pokeapi\\regionpokeapiintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFF60EF-F7DE-4D14-B1CF-ABE74A732A6B}|Pokedex.API\\Pokedex.API.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.api\\controllers\\pokedexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFF60EF-F7DE-4D14-B1CF-ABE74A732A6B}|Pokedex.API\\Pokedex.API.csproj|solutionrelative:pokedex.api\\controllers\\pokedexcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A8D260-8638-4170-9C4D-A9A9E28D1860}|Pokedex.Aplication\\Pokedex.Aplication.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.aplication\\usecases\\pokedex\\getregion\\getregionusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A8D260-8638-4170-9C4D-A9A9E28D1860}|Pokedex.Aplication\\Pokedex.Aplication.csproj|solutionrelative:pokedex.aplication\\usecases\\pokedex\\getregion\\getregionusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A8D260-8638-4170-9C4D-A9A9E28D1860}|Pokedex.Aplication\\Pokedex.Aplication.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.aplication\\usecases\\pokedex\\getpokemonsingle\\getpokemonsingleusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5A8D260-8638-4170-9C4D-A9A9E28D1860}|Pokedex.Aplication\\Pokedex.Aplication.csproj|solutionrelative:pokedex.aplication\\usecases\\pokedex\\getpokemonsingle\\getpokemonsingleusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.communication\\response\\responseerrosjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|solutionrelative:pokedex.communication\\response\\responseerrosjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.communication\\response\\pokeapi\\responsetypepokemonalljson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|solutionrelative:pokedex.communication\\response\\pokeapi\\responsetypepokemonalljson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.communication\\response\\pokeapi\\responseprofilepokemonjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|solutionrelative:pokedex.communication\\response\\pokeapi\\responseprofilepokemonjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.communication\\response\\pokeapi\\responseregionpokeapijson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|solutionrelative:pokedex.communication\\response\\pokeapi\\responseregionpokeapijson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.communication\\response\\pokeapi\\responseregionpokeapilistjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|solutionrelative:pokedex.communication\\response\\pokeapi\\responseregionpokeapilistjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.communication\\response\\pokeapi\\responsepokemonsinglejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|solutionrelative:pokedex.communication\\response\\pokeapi\\responsepokemonsinglejson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.communication\\response\\pokeapi\\responsearealistjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|solutionrelative:pokedex.communication\\response\\pokeapi\\responsearealistjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.communication\\response\\pokeapi\\responsepokemonencounterslistjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|solutionrelative:pokedex.communication\\response\\pokeapi\\responsepokemonencounterslistjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.communication\\response\\pokeapi\\responseareasjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|solutionrelative:pokedex.communication\\response\\pokeapi\\responseareasjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.communication\\response\\pokeapi\\responselocationslistpokeapijson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|solutionrelative:pokedex.communication\\response\\pokeapi\\responselocationslistpokeapijson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.communication\\response\\pokeapi\\responselocationspokeapijson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|solutionrelative:pokedex.communication\\response\\pokeapi\\responselocationspokeapijson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.communication\\response\\pokeapi\\responsepokemonareapokeallapijson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|solutionrelative:pokedex.communication\\response\\pokeapi\\responsepokemonareapokeallapijson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.communication\\response\\pokeapi\\responsepokemonareapokeapijson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|solutionrelative:pokedex.communication\\response\\pokeapi\\responsepokemonareapokeapijson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.communication\\response\\pokeapi\\responsepokemonarealistpokeapijson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|solutionrelative:pokedex.communication\\response\\pokeapi\\responsepokemonarealistpokeapijson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFF60EF-F7DE-4D14-B1CF-ABE74A732A6B}|Pokedex.API\\Pokedex.API.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFF60EF-F7DE-4D14-B1CF-ABE74A732A6B}|Pokedex.API\\Pokedex.API.csproj|solutionrelative:pokedex.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5A8D260-8638-4170-9C4D-A9A9E28D1860}|Pokedex.Aplication\\Pokedex.Aplication.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.aplication\\pokedex.aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5A8D260-8638-4170-9C4D-A9A9E28D1860}|Pokedex.Aplication\\Pokedex.Aplication.csproj|solutionrelative:pokedex.aplication\\pokedex.aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFF60EF-F7DE-4D14-B1CF-ABE74A732A6B}|Pokedex.API\\Pokedex.API.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.api\\pokedex.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DFF60EF-F7DE-4D14-B1CF-ABE74A732A6B}|Pokedex.API\\Pokedex.API.csproj|solutionrelative:pokedex.api\\pokedex.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|c:\\users\\ivan\\source\\repos\\pokedex\\pokedex.communication\\pokedex.communication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{59C69E9A-B111-4084-8555-0FCDB2FAF3FF}|Pokedex.Communication\\Pokedex.Communication.csproj|solutionrelative:pokedex.communication\\pokedex.communication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllPokemonsRegionUseCases.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Aplication\\UseCases\\Pokedex\\GetAllPokemonsRegion\\GetAllPokemonsRegionUseCases.cs",
+              "RelativeDocumentMoniker": "Pokedex.Aplication\\UseCases\\Pokedex\\GetAllPokemonsRegion\\GetAllPokemonsRegionUseCases.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Aplication\\UseCases\\Pokedex\\GetAllPokemonsRegion\\GetAllPokemonsRegionUseCases.cs",
+              "RelativeToolTip": "Pokedex.Aplication\\UseCases\\Pokedex\\GetAllPokemonsRegion\\GetAllPokemonsRegionUseCases.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:28:40.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PokedexController.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.API\\Controllers\\PokedexController.cs",
+              "RelativeDocumentMoniker": "Pokedex.API\\Controllers\\PokedexController.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.API\\Controllers\\PokedexController.cs",
+              "RelativeToolTip": "Pokedex.API\\Controllers\\PokedexController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwCgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:16:05.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegionPokeAPIIntegration.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Aplication\\Integrations\\PokeAPI\\RegionPokeAPIIntegration.cs",
+              "RelativeDocumentMoniker": "Pokedex.Aplication\\Integrations\\PokeAPI\\RegionPokeAPIIntegration.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Aplication\\Integrations\\PokeAPI\\RegionPokeAPIIntegration.cs",
+              "RelativeToolTip": "Pokedex.Aplication\\Integrations\\PokeAPI\\RegionPokeAPIIntegration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:00:40.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseErrosJson.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\ResponseErrosJson.cs",
+              "RelativeDocumentMoniker": "Pokedex.Communication\\Response\\ResponseErrosJson.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\ResponseErrosJson.cs",
+              "RelativeToolTip": "Pokedex.Communication\\Response\\ResponseErrosJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:33:10.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetRegionUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Aplication\\UseCases\\Pokedex\\GetRegion\\GetRegionUseCase.cs",
+              "RelativeDocumentMoniker": "Pokedex.Aplication\\UseCases\\Pokedex\\GetRegion\\GetRegionUseCase.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Aplication\\UseCases\\Pokedex\\GetRegion\\GetRegionUseCase.cs",
+              "RelativeToolTip": "Pokedex.Aplication\\UseCases\\Pokedex\\GetRegion\\GetRegionUseCase.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:15:01.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetPokemonSingleUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Aplication\\UseCases\\Pokedex\\GetPokemonSingle\\GetPokemonSingleUseCase.cs",
+              "RelativeDocumentMoniker": "Pokedex.Aplication\\UseCases\\Pokedex\\GetPokemonSingle\\GetPokemonSingleUseCase.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Aplication\\UseCases\\Pokedex\\GetPokemonSingle\\GetPokemonSingleUseCase.cs",
+              "RelativeToolTip": "Pokedex.Aplication\\UseCases\\Pokedex\\GetPokemonSingle\\GetPokemonSingleUseCase.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBIAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:58:07.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseTypePokemonAllJson.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponseTypePokemonAllJson.cs",
+              "RelativeDocumentMoniker": "Pokedex.Communication\\Response\\PokeAPI\\ResponseTypePokemonAllJson.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponseTypePokemonAllJson.cs",
+              "RelativeToolTip": "Pokedex.Communication\\Response\\PokeAPI\\ResponseTypePokemonAllJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:38:04.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResponseRegionPokeAPIJson.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponseRegionPokeAPIJson.cs",
+              "RelativeDocumentMoniker": "Pokedex.Communication\\Response\\PokeAPI\\ResponseRegionPokeAPIJson.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponseRegionPokeAPIJson.cs",
+              "RelativeToolTip": "Pokedex.Communication\\Response\\PokeAPI\\ResponseRegionPokeAPIJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:55:39.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResponseProfilePokemonJson.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponseProfilePokemonJson.cs",
+              "RelativeDocumentMoniker": "Pokedex.Communication\\Response\\PokeAPI\\ResponseProfilePokemonJson.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponseProfilePokemonJson.cs",
+              "RelativeToolTip": "Pokedex.Communication\\Response\\PokeAPI\\ResponseProfilePokemonJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:45:00.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResponseRegionPokeAPIListJson.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponseRegionPokeAPIListJson.cs",
+              "RelativeDocumentMoniker": "Pokedex.Communication\\Response\\PokeAPI\\ResponseRegionPokeAPIListJson.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponseRegionPokeAPIListJson.cs",
+              "RelativeToolTip": "Pokedex.Communication\\Response\\PokeAPI\\ResponseRegionPokeAPIListJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:58:29.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResponsePokemonSingleJson.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponsePokemonSingleJson.cs",
+              "RelativeDocumentMoniker": "Pokedex.Communication\\Response\\PokeAPI\\ResponsePokemonSingleJson.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponsePokemonSingleJson.cs",
+              "RelativeToolTip": "Pokedex.Communication\\Response\\PokeAPI\\ResponsePokemonSingleJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:35:25.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResponseAreaListJson.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponseAreaListJson.cs",
+              "RelativeDocumentMoniker": "Pokedex.Communication\\Response\\PokeAPI\\ResponseAreaListJson.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponseAreaListJson.cs",
+              "RelativeToolTip": "Pokedex.Communication\\Response\\PokeAPI\\ResponseAreaListJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:20:19.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResponsePokemonEncountersListJson.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponsePokemonEncountersListJson.cs",
+              "RelativeDocumentMoniker": "Pokedex.Communication\\Response\\PokeAPI\\ResponsePokemonEncountersListJson.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponsePokemonEncountersListJson.cs",
+              "RelativeToolTip": "Pokedex.Communication\\Response\\PokeAPI\\ResponsePokemonEncountersListJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:22:55.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResponseLocationsListPokeAPIJson.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponseLocationsListPokeAPIJson.cs",
+              "RelativeDocumentMoniker": "Pokedex.Communication\\Response\\PokeAPI\\ResponseLocationsListPokeAPIJson.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponseLocationsListPokeAPIJson.cs",
+              "RelativeToolTip": "Pokedex.Communication\\Response\\PokeAPI\\ResponseLocationsListPokeAPIJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:19:57.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResponseAreasJson.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponseAreasJson.cs",
+              "RelativeDocumentMoniker": "Pokedex.Communication\\Response\\PokeAPI\\ResponseAreasJson.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponseAreasJson.cs",
+              "RelativeToolTip": "Pokedex.Communication\\Response\\PokeAPI\\ResponseAreasJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:19:11.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResponseLocationsPokeAPIJson.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponseLocationsPokeAPIJson.cs",
+              "RelativeDocumentMoniker": "Pokedex.Communication\\Response\\PokeAPI\\ResponseLocationsPokeAPIJson.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponseLocationsPokeAPIJson.cs",
+              "RelativeToolTip": "Pokedex.Communication\\Response\\PokeAPI\\ResponseLocationsPokeAPIJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T13:16:30.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ResponsePokemonAreaPokeALLAPIJson.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponsePokemonAreaPokeALLAPIJson.cs",
+              "RelativeDocumentMoniker": "Pokedex.Communication\\Response\\PokeAPI\\ResponsePokemonAreaPokeALLAPIJson.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponsePokemonAreaPokeALLAPIJson.cs",
+              "RelativeToolTip": "Pokedex.Communication\\Response\\PokeAPI\\ResponsePokemonAreaPokeALLAPIJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:14:08.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ResponsePokemonAreaPokeAPIJson.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponsePokemonAreaPokeAPIJson.cs",
+              "RelativeDocumentMoniker": "Pokedex.Communication\\Response\\PokeAPI\\ResponsePokemonAreaPokeAPIJson.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponsePokemonAreaPokeAPIJson.cs",
+              "RelativeToolTip": "Pokedex.Communication\\Response\\PokeAPI\\ResponsePokemonAreaPokeAPIJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:19:02.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResponsePokemonAreaListPokeAPIJson.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponsePokemonAreaListPokeAPIJson.cs",
+              "RelativeDocumentMoniker": "Pokedex.Communication\\Response\\PokeAPI\\ResponsePokemonAreaListPokeAPIJson.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Response\\PokeAPI\\ResponsePokemonAreaListPokeAPIJson.cs",
+              "RelativeToolTip": "Pokedex.Communication\\Response\\PokeAPI\\ResponsePokemonAreaListPokeAPIJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:25:59.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.API\\Program.cs",
+              "RelativeDocumentMoniker": "Pokedex.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.API\\Program.cs",
+              "RelativeToolTip": "Pokedex.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:37:39.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Pokedex.Aplication.csproj",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Aplication\\Pokedex.Aplication.csproj",
+              "RelativeDocumentMoniker": "Pokedex.Aplication\\Pokedex.Aplication.csproj",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Aplication\\Pokedex.Aplication.csproj",
+              "RelativeToolTip": "Pokedex.Aplication\\Pokedex.Aplication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T11:52:22.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Pokedex.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.API\\Pokedex.API.csproj",
+              "RelativeDocumentMoniker": "Pokedex.API\\Pokedex.API.csproj",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.API\\Pokedex.API.csproj",
+              "RelativeToolTip": "Pokedex.API\\Pokedex.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T11:51:07.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Pokedex.Communication.csproj",
+              "DocumentMoniker": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Pokedex.Communication.csproj",
+              "RelativeDocumentMoniker": "Pokedex.Communication\\Pokedex.Communication.csproj",
+              "ToolTip": "C:\\Users\\Ivan\\source\\repos\\Pokedex\\Pokedex.Communication\\Pokedex.Communication.csproj",
+              "RelativeToolTip": "Pokedex.Communication\\Pokedex.Communication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T11:54:39.291Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
